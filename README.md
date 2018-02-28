@@ -13,3 +13,6 @@
 - Facebook:https://www.facebook.com/masuda.hiromu
 - LinkedIn: https://www.linkedin.com/in/hiromu-masuda-6225a1b9/
 
+## WIP｜修正・加筆が必要な部分
+- [] 志望動機が曖昧すぎる
+- [] 各種アカウントが充実していない
