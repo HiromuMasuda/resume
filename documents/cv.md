@@ -48,8 +48,6 @@
 - ログ収集・解析基盤を0から構築した。
 - インフラのDocker化と構成管理ツールの導入。
 
-![log_image](https://user-images.githubusercontent.com/13075793/36792133-f8ec535c-1cdc-11e8-8c73-bd092b03edcd.png)
-
 <img width="75%" alt="log_image" src="https://user-images.githubusercontent.com/13075793/36792133-f8ec535c-1cdc-11e8-8c73-bd092b03edcd.png">
 
 
