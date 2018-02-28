@@ -50,6 +50,9 @@
 
 ![log_image](https://user-images.githubusercontent.com/13075793/36792133-f8ec535c-1cdc-11e8-8c73-bd092b03edcd.png)
 
+<img width="75%" alt="log_image" src="https://user-images.githubusercontent.com/13075793/36792133-f8ec535c-1cdc-11e8-8c73-bd092b03edcd.png">
+
+
 #### プロダクト開発リーダー(2017.07-2018.01)
 - 4人の開発メンバーの統括とプロダクト企画、レビュー、リリース、インフラ全てに責任を持った。
 - 働き方改革メディアBeyondを2017年9月に、ICO比較サイトBoxilTokenを2017年10月にリリース
