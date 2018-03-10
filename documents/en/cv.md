@@ -1,3 +1,5 @@
+[WIP] Modified Japanese version.
+
 # Job history
 
 # Development History (Overview)
