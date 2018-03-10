@@ -1,3 +1,5 @@
+[WIP] Modified Japanese version.
+
 # Motivation Letter
 
 I would like to analyze/develop using bigdata.
