@@ -1,10 +1,10 @@
 # Resume
 
-# 基本情報
+## 基本情報
 - 増田大夢｜HiromuMasuda
 - 東京大学工学部システム創成学科4年｜Senior, Systems Inovation, Faculty of Engineering, The University of Tokyo
 
-# 詳細情報
+## 詳細情報
 - [職務履歴](documents/ja/cv.md)
 - [自己PR](documents/ja/qualities.md)
 - [この先やってみたいこと](documents/ja/motivation_letter.md)
