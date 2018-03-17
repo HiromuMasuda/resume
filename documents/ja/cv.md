@@ -7,7 +7,7 @@
 - フロントエンド開発(HTML(Slim)/CSS(Sass)/JQuery/Vue.js/React.js)を用いた開発。
 - サーバーサイド開発(Ruby)
 - インフラ保守・開発（AWS/Docker/Ansible)
-- ログ収集・解析基盤の開発(Fluentd/Embulk/Digdag)
+- ログ収集・解析基盤の開発(Fluentd/Embulk/Digdag/BigQuery)
 
 ### 開発実績
 - 法人向けITサービスの比較・検索・資料請求サイト ボクシル: https://boxil.jp/
