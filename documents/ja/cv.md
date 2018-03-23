@@ -47,7 +47,7 @@
 - ログ収集・解析基盤を0から構築した。
 - インフラのDocker化と構成管理ツールの導入をした。
 
-<img width="75%" alt="log_image" src="https://user-images.githubusercontent.com/13075793/36792133-f8ec535c-1cdc-11e8-8c73-bd092b03edcd.png">
+<img width="75%" alt="screen shot 2018-03-23 at 17 37 06" src="https://user-images.githubusercontent.com/13075793/37819595-5889bda4-2ec1-11e8-9dca-42099546f8bf.png">
 
 #### プロダクト開発リーダー(2017.07-2018.01)
 - 4人の開発メンバーの統括とプロダクト企画、レビュー、リリース、インフラ全てに責任を持った。
